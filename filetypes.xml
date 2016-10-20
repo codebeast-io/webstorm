@@ -1,0 +1,26 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="aspx" type="Native" />
+      <mapping pattern="scratch" type="PLAIN_TEXT" />
+      <mapping pattern="disaplyform" type="PLAIN_TEXT" />
+      <mapping pattern="requirements" type="PLAIN_TEXT" />
+      <mapping pattern="Sample.js" type="PLAIN_TEXT" />
+      <mapping pattern="reqs" type="PLAIN_TEXT" />
+      <mapping pattern="search-config-home" type="XML" />
+      <mapping pattern="search-config-international" type="XML" />
+      <mapping ext="config" type="XML" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+    </extensionMap>
+  </component>
+</application>

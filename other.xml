@@ -1,0 +1,131 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="EXT_CONFIGURATION">
+      <value>
+        <option name="CVS_RSH" value="ssh" />
+        <option name="PRIVATE_KEY_FILE" value="" />
+        <option name="ADDITIONAL_PARAMETERS" value="" />
+        <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
+      </value>
+    </option>
+    <option name="SSH_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="LOCAL_CONFIGURATION">
+      <value>
+        <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+      </value>
+    </option>
+    <option name="PROXY_SETTINGS">
+      <value>
+        <option name="USE_PROXY" value="false" />
+        <option name="PROXY_HOST" value="" />
+        <option name="PROXY_PORT" value="8080" />
+        <option name="TYPE" value="0" />
+        <option name="LOGIN" value="" />
+        <option name="PASSWORD" value="" />
+      </value>
+    </option>
+    <option name="SSH_FOR_EXT_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+    <option name="TIMEOUT" value="10" />
+    <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
+    <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
+    <option name="CHECKOUT_KEYWORD_SUBSTITUTION" />
+    <option name="SHOW_RESTORE_DIRECTORIES_CONFIRMATION" value="true" />
+    <option name="ENCODING" value="Default" />
+    <option name="USE_GZIP" value="false" />
+    <option name="DO_OUTPUT" value="false" />
+    <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
+    <option name="SHOW_PATH" value="true" />
+  </component>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="ImportConfiguration">
+    <option name="VENDOR" />
+    <option name="RELEASE_TAG" />
+    <option name="LOG_MESSAGE" />
+    <option name="CHECKOUT_AFTER_IMPORT" value="true" />
+    <option name="KEYWORD_SUBSTITUTION_WRAPPERS" value="" />
+    <option name="MAKE_NEW_FILES_READ_ONLY" value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="6.8.1" last-modified="1476483561000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="RecentTaskRepositories">
+    <Trello shared="false">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentBoard">
+        <TrelloBoard id="56607d3c455f0a5f62830f47" name="MEANWW" />
+      </option>
+      <option name="currentList">
+        <TrelloList id="ILLEGAL_ID" name="-- from all lists --" />
+      </option>
+      <option name="currentUser">
+        <TrelloUser id="51ec112fddb3d0100e001515" name="iamalexcohen" />
+      </option>
+      <password>dfcedf9adfcbdf9edf98dfc9dfccdf9ddf93df9cdf9adf93dfcedf9edfcedfcfdf98df9bdf98dfccdf92df99df9edfccdf98df92df9adf9bdf9cdfc8df9fdf9fdfc8dfcfdfc9df9fdf93dfcedf92df92df9fdf93df93df9adf9fdfcbdf9bdf98df9adf9bdfcedf9fdf9fdf92df9ddfcbdfcbdf92df9fdfc9df92df9bdfc8df98</password>
+      <option name="includeAllCards" value="true" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="url" value="https://api.trello.com" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Trello>
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>dfc8dfcbdf9fdf93dfc9df9ddfcbdf92dfcfdf9ddfc8df9bdf9ddf9bdf9adf9fdfcfdf99dfcfdf9edfcfdfc8dfc9df92df9bdfcfdf93df9cdfcedfcedf93dfcbdf9bdfc8df93df92df9cdf9edfccdfcf</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="iamalexcohen" />
+      <option name="repoName" value="gapps-dev" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+    <PivotalTracker shared="false" url="https://www.pivotaltracker.com">
+      <option name="APIKey" value="e1bddc658fb500f1a02b09a5804770e7" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="projectId" value="1167310" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </PivotalTracker>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+</application>
