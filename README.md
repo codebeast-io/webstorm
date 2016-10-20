@@ -1,2 +1,0 @@
-# webstorm
-WebStorm IDE Settings
