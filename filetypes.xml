@@ -7,6 +7,7 @@
       <mapping pattern="disaplyform" type="PLAIN_TEXT" />
       <mapping pattern="requirements" type="PLAIN_TEXT" />
       <mapping pattern="Sample.js" type="PLAIN_TEXT" />
+      <mapping pattern="todo" type="PLAIN_TEXT" />
       <mapping pattern="reqs" type="PLAIN_TEXT" />
       <mapping pattern="search-config-home" type="XML" />
       <mapping pattern="search-config-international" type="XML" />
