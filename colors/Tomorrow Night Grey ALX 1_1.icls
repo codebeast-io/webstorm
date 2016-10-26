@@ -1,9 +1,15 @@
 <scheme name="Tomorrow Night Grey ALX 1.1" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Courier New" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
   <option name="CONSOLE_FONT_NAME" value="Orator Std" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="7b7e80" />
@@ -26,7 +32,7 @@
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="242729" />
     <option name="INDENT_GUIDE" value="373b41" />
-    <option name="LINE_NUMBERS_COLOR" value="c8c5c1" />
+    <option name="LINE_NUMBERS_COLOR" value="e6e3df" />
     <option name="METHOD_SEPARATORS_COLOR" value="282a2e" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
@@ -119,6 +125,13 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="5cff" />
+        <option name="EFFECT_COLOR" value="ff" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="4b4e55" />
@@ -175,7 +188,7 @@
     </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="de935f" />
+        <option name="FOREGROUND" value="ffebb7" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -205,7 +218,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="dec356" />
+        <option name="FOREGROUND" value="e0c555" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -279,7 +292,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ee7b6d" />
+        <option name="FOREGROUND" value="e67a7a" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -315,7 +328,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="de935f" />
+        <option name="FOREGROUND" value="ffc483" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -348,7 +361,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="add3ff" />
+        <option name="FOREGROUND" value="9ddcdc" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -438,7 +451,7 @@
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="287bde" />
+        <option name="FOREGROUND" value="625772" />
         <option name="EFFECT_COLOR" value="287bde" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -12667,7 +12680,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c8ae35" />
+        <option name="FOREGROUND" value="ffebb7" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="a74c0" />
       </value>
