@@ -1,11 +1,4 @@
 <scheme name="Tomorrow Night Grey ALX 1.2" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2016-10-25T15:36:38</property>
-    <property name="ide">WebStorm</property>
-    <property name="ideVersion">2016.2.4.0.0</property>
-    <property name="modified">2016-10-25T20:41:59</property>
-    <property name="originalScheme">Tomorrow Night Grey ALX 1.1</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
